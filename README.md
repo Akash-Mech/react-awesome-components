@@ -1,6 +1,6 @@
 # React Components Showcase
 
-![React Awesome Components]((image.png))
+![React Awesome Components](image.png)
 
 
 A project showcasing various React components and libraries to enhance UI/UX with effects and interactions. This application demonstrates the use of several popular components and libraries integrated into a Next.js and React.js environment, styled with Tailwind CSS.
