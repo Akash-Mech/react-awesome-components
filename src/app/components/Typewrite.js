@@ -1,8 +1,9 @@
 "use client"
 
-import Link from 'next/link';
 import React from 'react'
-import TypeWriterEffect from 'react-typewriter-effect';
+import dynamic from 'next/dynamic'
+
+const TypeWriterEffect = dynamic(() => import('react-typewriter-effect'), { ssr: false });
 
 const Typewrite = () => {
     return (

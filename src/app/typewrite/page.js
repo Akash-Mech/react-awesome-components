@@ -1,7 +1,7 @@
 import React from 'react'
 import Typewrite from '../components/Typewrite'
 
-function page() {
+const page = () => {
     return (
         <div>
             <Typewrite />
